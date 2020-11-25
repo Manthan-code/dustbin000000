@@ -22,5 +22,6 @@ class Paper{
         imageMode(RADIUS);
         image(this.Paper,0,0,this.radius,this.radius);
         pop();
+        
     }
 }
